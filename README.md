@@ -1,5 +1,4 @@
-# <img src="https://krio.fr.nf/Assets/KaleronAssetsL/LogoDark.png" alt="Kaleron Logo" width="30" height="30"> KaleronAccountLibJS
-
+# <img src="https://krio.fr.nf/Assets/KaleronAssetsL/LogoDark.png" alt="Kaleron Logo" width="30" height="30"> KaleronAccountLibJS [![GitHub license](https://img.shields.io/badge/license-NPL-red.svg)](LICENSE) [![npm version](https://img.shields.io/npm/v/kaleron-account-lib.svg?style=flat)](https://www.npmjs.com/package/kaleron-account-lib)
 
 **KaleronAccountLibJS is a Node.js library designed to interact with the Kaleron Account Link API. It provides a simple and powerful way to perform various account-related actions such as retrieving email, sending comments, reading comments, liking/disliking videos, and more.**
 
