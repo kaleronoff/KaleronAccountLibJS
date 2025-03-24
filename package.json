@@ -1,0 +1,23 @@
+{
+  "name": "kaleron-account-lib",
+  "version": "1.0.0",
+  "description": "KaleronAccountLibJS is a NodeJS library to interact with Kaleron's Account Link API",
+  "keywords": [
+    "Kaleron"
+  ],
+  "homepage": "https://github.com/kaleronoff/KaleronAccountLibJS#readme",
+  "bugs": {
+    "url": "https://github.com/kaleronoff/KaleronAccountLibJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleronoff/KaleronAccountLibJS.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Kaleron (Ezio Nozyx)",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
